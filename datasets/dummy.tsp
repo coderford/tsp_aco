@@ -1,0 +1,14 @@
+NAME : dummy
+COMMENT : dummy problem (Ayush and Adi)
+TYPE : TSP
+DIMENSION : 7
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+1 7 2
+2 9 9
+3 2 4
+4 0 6
+5 0 0
+6 1 7
+7 7 3
+EOF
